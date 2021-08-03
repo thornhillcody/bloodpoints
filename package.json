@@ -11,5 +11,8 @@
     "pulse"
   ],
   "author": "thornhillcody",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^8.1.0"
+  }
 }
