@@ -1,0 +1,15 @@
+{
+  "name": "bloodpoints",
+  "version": "1.0.0",
+  "description": "Earn you some blood points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "virgin",
+    "pulse"
+  ],
+  "author": "thornhillcody",
+  "license": "MIT"
+}
